@@ -1,2 +1,2 @@
 # hello-world.
-Hachink is not easy.
+Hacking is not easy.
